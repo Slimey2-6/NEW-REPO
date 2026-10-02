@@ -16,7 +16,7 @@
         <p>He comes from a modest background that only involved driving a ferrari and travelling in private jets. This should make you understand his need for a tip</p>
         
         <h3>He is hardworking:</h3>
-        <p>He has always given his best and requires a tip</p>
+        <p>He has always given hiss best and requires a tip</p>
         <hr>
     </body>
 </html>
